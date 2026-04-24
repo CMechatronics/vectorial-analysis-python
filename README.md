@@ -1,4 +1,4 @@
-# Tarea: Análisis Vectorial — Geometría Diferencial con Python
+# Análisis Vectorial — Geometría Diferencial con Python
 
 Notebook de Jupyter con la resolución de cinco ejercicios de análisis vectorial y geometría diferencial, implementados con NumPy, Matplotlib y SymPy.
 
